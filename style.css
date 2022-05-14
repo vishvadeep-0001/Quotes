@@ -1,0 +1,56 @@
+.content{
+    padding: 50px;
+    background-color: #499bfd;
+}
+.content-box{
+    background-color: #ffffff;
+    padding: 20px;
+}
+#tweet{
+    position: absolute;
+    top: 140px;
+    right: 500px;
+    border: none;
+    color: #499bfd;
+    background: transparent;
+}
+.fa-brands{
+    font-size: 20px;
+    cursor: pointer;
+}
+.fa-brands:hover{
+    font-size: 21px;
+}
+.fa-solid{
+    color: #e1d8e1;
+    font-size: 40px;
+}
+.quotes{
+    color: #878787;
+    margin-top: 15px;
+    font-family: 'Dancing Script', cursive;
+}
+.author{
+    color: #808080;
+    margin-top: 25px;
+    text-align: right;
+    font-family: 'Dancing Script', cursive;
+}
+.btn-primary{
+    width: 100%;
+    border: none;
+    font-size: 16px;
+    border-radius: 0%;
+    outline: none;
+    cursor: pointer;
+}
+/* @media(min-width: 450px){
+    #tweet{
+        position: absolute;
+        top: 130px;
+        right: 55px;
+        border: none;
+        color: #499bfd;
+        background: transparent;
+    }
+} */
